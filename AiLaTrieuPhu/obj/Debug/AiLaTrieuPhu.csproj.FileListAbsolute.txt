@@ -1,0 +1,44 @@
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.pdb
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csprojResolveAssemblyReference.cache
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.FmChinh.resources
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Properties.Resources.resources
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.GenerateResource.Cache
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.exe
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.pdb
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.FmKhoiDong.resources
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\Interop.WMPLib.dll
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\Interop.WMPLib.dll
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.ResolveComReference.cache
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.fmThongTin.resources
+D:\dacsn\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe
+D:\dacsn\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.pdb
+D:\dacsn\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\Interop.WMPLib.dll
+D:\dacsn\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.AssemblyReference.cache
+D:\dacsn\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\Interop.WMPLib.dll
+D:\dacsn\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.ResolveComReference.cache
+D:\dacsn\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.FmKhoiDong.resources
+D:\dacsn\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.fmThongTin.resources
+D:\dacsn\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.FmChinh.resources
+D:\dacsn\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Properties.Resources.resources
+D:\dacsn\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.GenerateResource.cache
+D:\dacsn\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.CoreCompileInputs.cache
+D:\dacsn\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.exe
+D:\dacsn\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.pdb
+D:\dacsn\AiLaTrieuPhu\AiLaTrieuPhu\bin\Debug\Interop.MediaPlayer.dll
+D:\dacsn\AiLaTrieuPhu\AiLaTrieuPhu\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\ASUS\DoAnCoSoNganh\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.exe
+C:\Users\ASUS\DoAnCoSoNganh\AiLaTrieuPhu\bin\Debug\AiLaTrieuPhu.pdb
+C:\Users\ASUS\DoAnCoSoNganh\AiLaTrieuPhu\bin\Debug\Interop.MediaPlayer.dll
+C:\Users\ASUS\DoAnCoSoNganh\AiLaTrieuPhu\bin\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\DoAnCoSoNganh\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.AssemblyReference.cache
+C:\Users\ASUS\DoAnCoSoNganh\AiLaTrieuPhu\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\ASUS\DoAnCoSoNganh\AiLaTrieuPhu\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\DoAnCoSoNganh\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.ResolveComReference.cache
+C:\Users\ASUS\DoAnCoSoNganh\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.FmKhoiDong.resources
+C:\Users\ASUS\DoAnCoSoNganh\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.FmChinh.resources
+C:\Users\ASUS\DoAnCoSoNganh\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.Properties.Resources.resources
+C:\Users\ASUS\DoAnCoSoNganh\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.GenerateResource.cache
+C:\Users\ASUS\DoAnCoSoNganh\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\DoAnCoSoNganh\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.exe
+C:\Users\ASUS\DoAnCoSoNganh\AiLaTrieuPhu\obj\Debug\AiLaTrieuPhu.pdb
